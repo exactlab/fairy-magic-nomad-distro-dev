@@ -1,3 +1,9 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
+[submodule "packages/nomad-schema-plugin-nmr"]
+	path = packages/nomad-schema-plugin-nmr
+	url = git@github.com:FAIRmat-NFDI/nomad-schema-plugin-nmr.git
+[submodule "packages/nomad-parser-plugins-simulation"]
+	path = packages/nomad-parser-plugins-simulation
+	url = git@github.com:FAIRmat-NFDI/nomad-parser-plugins-simulation.git
