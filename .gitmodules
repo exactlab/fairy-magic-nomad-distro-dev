@@ -6,4 +6,7 @@
 	url = git@github.com:FAIRmat-NFDI/nomad-schema-plugin-nmr.git
 [submodule "packages/nomad-parser-plugins-simulation"]
 	path = packages/nomad-parser-plugins-simulation
-	url = git@github.com:FAIRmat-NFDI/nomad-parser-plugins-simulation.git
+	url = git@github.com:exactlab/nomad-parser-plugins-simulation.git
+[submodule "packages/nomad-simulations"]
+	path = packages/nomad-simulations
+	url = git@github.com:nomad-coe/nomad-simulations.git
